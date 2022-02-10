@@ -11,6 +11,10 @@ a {
   text-decoration: none;
 }
 
+h1 {
+  color: rgb(0, 251, 34);
+}
+
 * {
   box-sizing: border-box;
 }
